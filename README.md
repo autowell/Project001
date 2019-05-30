@@ -1,3 +1,3 @@
 # Project001
 For learn Python
-Thiis is my first type word on github！
+This is my first type word on github！
